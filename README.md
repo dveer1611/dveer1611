@@ -2,7 +2,7 @@
   
 - 😄 Pronouns: He/Him
 
-- 👀 I’m interested in exploring innovative solutions in the world of technology, particularly in areas like cloud computing, machine learning, and web development.
+- 👀 I’m interested in exploring innovative solutions in the world of technology, particularly in areas like cloud computing, Networking , and System Security.
 
 - 🌱 I’m currently learning new technologies and frameworks to stay ahead in the rapidly evolving tech landscape. Currently diving deep into Cloud Computing.
 
